@@ -1,0 +1,17 @@
+/** Add css rules here for your application. */
+
+h1 {
+    font-size: 2em;
+    font-weight: bold;
+    text-align: center;
+}
+
+body, td, a, div, .p {
+    font-family: arial, sans-serif
+}
+
+.watchListHeader {
+    background-color: #2062B8;
+    color: white;
+    font-style: italic;
+}
